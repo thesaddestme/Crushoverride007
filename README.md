@@ -1,7 +1,15 @@
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true&hide=stars" />
+  <p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true&hide=stars" />
+  
+  </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust)](https://github.com/anuraghazra/github-readme-stats"/>
+  
+  </p>
 
 <br>
 <br>
