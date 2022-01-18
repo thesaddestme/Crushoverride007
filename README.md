@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and currently freelancing on other projects.
 
-## Socials
+## :mailbox_with_mail: Socials
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/)
 
@@ -34,13 +34,13 @@ My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and cur
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Skills - OS
+## :computer: Skills - OS
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-## Skills - Web
+## :globe_with_meridians: Skills - Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +51,7 @@ My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and cur
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Project Management 
+## :dart: :rocket: Project Management 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
