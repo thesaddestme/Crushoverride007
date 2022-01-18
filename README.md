@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Mouhcine and I'm a Graduate DevOps Engineer. I'm from MA and currently freelancing on other projects.
+My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and currently freelancing on other projects.
