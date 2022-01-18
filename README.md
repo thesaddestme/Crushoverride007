@@ -20,9 +20,9 @@ My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and cur
 
 ## Socials
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Here](https://www.linkedin.com/in/mouhcinemesmouki/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Click Here](https://www.linkedin.com/in/mouhcinemesmouki/)
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Click Here](https://twitter.com/crushoveride007)
 
 ## Skills - Cloud
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
