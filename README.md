@@ -1,7 +1,7 @@
 <h2 align="center">Oh, Hello there 👋</h1>
 
 
-My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and currently freelancing on other projects.
+My name's Mouhcine and I'm a Graduate DevOps Engineer from 🇲🇦. I'm currently freelancing on other projects.
 
 ## :mailbox_with_mail: Socials
 
