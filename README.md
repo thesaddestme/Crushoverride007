@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Mouhcine and I'm a Graduate DevOps Engineer. I'm from MA and currently freelancing on other projects.
