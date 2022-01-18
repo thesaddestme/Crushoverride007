@@ -24,7 +24,7 @@ My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and cur
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Click Here](https://twitter.com/crushoveride007)
 
-## Hobbies...
+## :hourglass: Hobbies...
 
 * Finding new skills to master
 * Socializing with other tech enthusiasts 
