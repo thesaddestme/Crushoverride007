@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true&hide=stars)
 
 
 <br>
