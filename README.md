@@ -10,8 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust)](https://github.com/anuraghazra/github-readme-stats"/>
   
   </p>
-
-<br>
+  
 
 <h2 align="center">Oh, Hello there 👋</h1>
 
