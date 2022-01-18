@@ -18,9 +18,5 @@ Here are some ideas to get you started:
 
 My name's Mouhcine and I'm a Graduate DevOps Engineer. I'm from 🇲🇦 and currently freelancing on other projects.
 
-[![Build Status](https://travis-ci.org/gordonbanderson/html-tagline.svg?branch=master)](https://travis-ci.org/gordonbanderson/html-tagline)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gordonbanderson/html-tagline/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/html-tagline/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/gordonbanderson/html-tagline/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/html-tagline/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/gordonbanderson/html-tagline/badges/build.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/html-tagline/build-status/master)
-[![codecov.io](https://codecov.io/github/gordonbanderson/html-tagline/coverage.svg?branch=master)](https://codecov.io/github/gordonbanderson/html-tagline?branch=master)
+[![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
