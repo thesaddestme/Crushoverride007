@@ -1,7 +1,7 @@
 
   <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crushoverride007&theme=tokyonight&show_icons=true" />
   
   </p>
 
